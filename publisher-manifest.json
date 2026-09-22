@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "03ec9af9fc9b735793cb8ce3",
+  "owner": "bjaxeu",
+  "repo": "page-8c354d8bc97e9d9b8daf72f6",
+  "title": "速腾云(Sutengyun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8c354d8bc97e9d9b8daf72f6",
+      "a": "速腾云(Sutengyun)",
+      "b": "机场官网线路发布页",
+      "entity": "速腾云(Sutengyun)",
+      "brand": "速腾云(Sutengyun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9350c8231a0f4c2fc8a76cf854f91e829a216e975cc30c47108f8d07a8692300",
+      "content": {
+        "primary_entity": "速腾云(Sutengyun)",
+        "keyword1": "速腾云(Sutengyun)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据使用设备选择对应客户端，完成订阅导入与连接设置。",
+          "AI_CLIENTS_TITLE": "多终端客户端适配",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求选定套餐，按客户端文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上速腾云",
+          "AI_DESCRIPTION": "，针对不同网络环境提供多档订阅方案，基础版适合个人日常使用，旗舰版侧重流媒体与游戏加速，团队版覆盖多设备与定制路由需求。客户端覆盖主流桌面与移动系统，按设备选择适配版本即可导入订阅。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。个人日常选基础版，多设备或看流媒体选旗舰版，团队办公选团队版。",
+          "AI_FAQ_ANSWER_2": "支持多种桌面与移动客户端，具体适配版本请在对应客户端说明中查看。按设备系统选择安装包，再用订阅链接导入即可。",
+          "AI_FAQ_ANSWER_3": "大部分情况下购买后立即生效，订阅链接在会员中心生成。若遇到节点延迟，可切换同一套餐内其他节点，或联系工单协助排查。",
+          "AI_FAQ_ANSWER_4": "可以。团队版支持企业定制路由，并提供专属客户经理对接，适合有固定办公网络需求的团队。",
+          "AI_FAQ_ANSWER_5": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。若短期使用可先选月付，确认线路质量后再转年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐流量和设备数量怎么选？",
+          "AI_FAQ_QUESTION_2": "支持哪些设备客户端？",
+          "AI_FAQ_QUESTION_3": "购买后多久可以用？",
+          "AI_FAQ_QUESTION_4": "团队版能否定制路由？",
+          "AI_FAQ_QUESTION_5": "按年付和月付有什么区别？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从套餐匹配、设备数量到订阅周期，三个角度帮你快速定位。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按实际用量挑选即可。",
+          "AI_FEATURE_TEXT_2": "桌面、移动端均有对应客户端，按设备系统选择安装包，再导入订阅。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更省，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "按设备选客户端",
+          "AI_FEATURE_TITLE_3": "按月或按年订阅",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连上线路的流程。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "速腾云提供多档海外加速订阅，覆盖个人到团队场景，基础版、旗舰版、团队版按流量与设备数区分，桌面与移动客户端均可导入订阅使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，多端接入",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "桌面移动客户端按设备选择",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别 ¥150、¥350、¥850。对比流量、设备数与节点权益后选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量预估和设备数量，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所在设备的系统版本与适配要求，确认客户端可正常安装。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，连接节点即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "速腾云多端加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0tl36i.cn",
+    "host": "0tl36i.cn"
+  },
+  "file_hashes": {
+    "index.html": "379e762b6f8e017229edb084fe80d482158a865856d853dea8b4f140add37607",
+    "sitemap.xml": "3c46170f7e84f10dc8cac838f771d1812cd5a1614725856efeee8c9938a607dd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "39f982d4aa94a39260d04b4793bb01b6e22988747a1997226652c90db8ba6bb3",
+    "robots.txt": "150faddc9a2662417f801527a6e316cdad6d7b8c70e83dc0e3cd93717f56d696",
+    "3a18ecb5b6c517698d4d6909d96da111.txt": "39457a2e225107677c17900f6d29851cd2734c55ecdf6036edf951b3293d8aee"
+  },
+  "revision": "d6f65d89940cc663228a4bf91ec55c2c6da0dc523506ac6d04b049563280ad5b"
+}
